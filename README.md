@@ -1,4 +1,4 @@
-# infrastructure-as-code
+# infrastructure-as-code in GCP
 
 Companion code to [A CI/CD solution in under 10 minutes, using Terraform & Ansible on GCP](https://medium.com/google-cloud/a-ci-cd-solution-in-under-10-minutes-featuring-terraform-ansible-and-drone-ci-on-gcp-16bba497c655)
 
